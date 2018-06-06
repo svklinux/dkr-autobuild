@@ -1,5 +1,5 @@
-#### SVK-UB16-DockerFile-06-Jun-2018 ####
-FROM ubuntu:16.04
+#### SVK-UB18-DockerFile-06-Jun-2018 ####
+FROM ubuntu:18.04
 MAINTAINER SVK
 RUN apt update && \
 apt install -y sudo vim wget net-tools openssh-server supervisor iputils-ping iproute2 nmap tzdata
