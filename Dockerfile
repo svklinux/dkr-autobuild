@@ -1,4 +1,4 @@
-#### SVK-UB18-DockerFile-06-Jun-2018 ####
+#### SVK-UB18-DockerFile-20-SeP-2018 ####
 FROM ubuntu:18.04
 MAINTAINER SVK
 RUN apt update && \
